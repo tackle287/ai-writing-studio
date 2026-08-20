@@ -1,0 +1,10 @@
+# 個人用ツールなので、この端末からのみアクセスできるようにする
+[server]
+address = "localhost"
+port = 8501
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#4F6BED"
